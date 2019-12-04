@@ -1,0 +1,5 @@
+const {add,sub}  = require('./export.js')
+var res = add(1,2)
+var res1 = sub(1,2)
+console.log(res)
+console.log(res1)
